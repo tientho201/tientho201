@@ -43,13 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tientho201&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tientho201&limit=5&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tientho201&theme=radical" />
-</p>
 
 ---
 
