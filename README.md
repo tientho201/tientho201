@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tientho201&limit=5&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=tientho201&theme=radical" />
 </p>
 
 ---
