@@ -36,14 +36,6 @@
 ## 📌 Featured Projects
    <p align= 'center'> Update Later </p>
 
----
-
-## 📊 GitHub Statse
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tientho201&show_icons=true&theme=radical" alt="GitHub state"/>
-</p>
-
-
 
 ---
 
