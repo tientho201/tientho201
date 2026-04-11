@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Statse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tientho201&show_icons=true&theme=radical" alt="GitHub statse"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tientho201&show_icons=true&theme=radical" alt="GitHub state"/>
 </p>
 
 
