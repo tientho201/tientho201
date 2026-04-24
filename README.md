@@ -1,40 +1,93 @@
-<h1 align="center">👋 Hi there! I'm <span style="color:#4CAF50;">Tien Tho</span></h1>
+<h1 align="center">👋 Hi there! I'm <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/" target="_blank">Tien Tho</a></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=AI+%26+Data+Engineer;SGU+Alumni;Agentic+AI+Enthusiast;Data-Driven+Gymgoer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  💡 Passionate about <b>AI, Machine Learning, and Computer Vision</b><br>
-  Exploring Deep Learning, NLP, and real-world applications 🚀
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Data%20Engineering-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
-<ul>
-  <li>🔭 Currently working on <b>Machine Learning & Deep Learning</b></li>
-  <li>🌱 Learning <b>Computer Vision, LLMs, Semi-Supervised Learning</b></li>
-  <li>📝 Sharing projects and knowledge on GitHub</li>
-</ul>
+### 👨‍💻 About Me
+
+I'm an IT engineer specializing in **Artificial Intelligence** from **Saigon University (SGU)**.
+With the discipline of a **Bodybuilder** 🏋️ và the sharp mindset of a **Crypto Trader** 📈, I approach code and data architecture with a focus on performance and optimization.
 
 ---
 
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+## 🛠 My Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+### 🧠 Artificial Intelligence
 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23ffd21e.svg?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-339933?style=flat&logo=langchain&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=flat&logo=robotframework&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-0052FF?style=flat&logo=neo4j&logoColor=white)
+![LightRAG](https://img.shields.io/badge/LightRAG-FFD21E?style=flat&logo=lightning&logoColor=black)
+
+### 📊 Data & MLOps
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=mlflow&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 [AI Web Builder (LangGraph)](https://github.com/tientho201/AI-WEB-BUILDER)
+
+_Automated website-building system using a **Multi-agent** architecture._
+
+- **Core:** LangGraph, Human-in-the-loop workflow.
+- **Agents:** Coder, Executor, and Reviewer orchestration.
+
+### 🎭 [Vietnamese Emotion Classification](https://github.com/tientho201/VIETNAMESE_EMOTION_CLASSIFICATION)
+
+_NLP system for handling Vietnamese language nuances._
+
+- **Tech:** Transformer Architecture, Streamlit UI.
+
+### 🎬 [Hybrid Movie Recommendation System](https://dagshub.com/tientho201/Hybrid-Movie-Recommendation-System)
+
+_Precision recommendation engine._
+
+- **Method:** Collaborative Filtering (SVD) + Content-based (Cosine Similarity).
+
+---
+
+## 🧘 Beyond Coding
+
+- 🏋️ **Bodybuilding:** I treat my muscle growth like model training—strictly monitored via **InBody metrics (SMM & BF)**. Consistency is key.
+- 📉 **Crypto Trading:** Automating market data collection to find alpha in the noise.
+- 🇬🇧 **English Learning:** Leveling up to **B1+** to communicate in global tech environments.
+
+---
+
+## 📫 How to reach me:
+
+<p align="left">
+<a href="mailto:tientho2012004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/tientho201"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📌 Featured Projects
-   <p align= 'center'> Update Later </p>
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tientho201&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientho201&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 
 ---
