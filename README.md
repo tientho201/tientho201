@@ -75,7 +75,9 @@ _Precision recommendation engine._
 ## 📫 How to reach me:
 
 <p align="left">
-<a href="[mailto:tientho2012004@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfScngNQVpDXRWxccMSZVVwqggnqVHhWqMKhmbSjtkjklDTLhhGpTzfqBcwzvWDlkfStL)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tientho2012004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/tientho201"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
