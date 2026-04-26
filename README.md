@@ -97,24 +97,6 @@ _Precision recommendation engine._
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientho201&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-
----
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="images/breakout-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="images/breakout-light.svg"
-    />
-    <img alt="Breakout Game" src="images/breakout-light.svg" />
-  </picture>
-</p>
-
-
 ---
 
 ## 🐍 My Contribution Snake
