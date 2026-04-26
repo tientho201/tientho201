@@ -62,6 +62,12 @@ _Precision recommendation engine._
 
 - **Method:** Collaborative Filtering (SVD) + Content-based (Cosine Similarity).
 
+### 🎙️ [Voice-to-Voice AI Pipeline](https://github.com/tientho201/VOICE_TO_VOICE)
+*Real-time end-to-end speech processing system.*
+- **Pipeline:** Speech-to-Text (STT) ➡️ LLM Processing ➡️ Text-to-Speech (TTS).
+- **Tech:** Integrated Whisper/FastSpeech/gTTS with LLMs for seamless natural language voice interaction.
+- **Application:** Building highly interactive AI assistants with low latency.
+
 ---
 
 ## 🧘 Beyond Coding
@@ -111,6 +117,16 @@ _Precision recommendation engine._
 
 ---
 
+## 🐍 My Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tientho201/tientho201/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tientho201/tientho201/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/tientho201/tientho201/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
 
 <p align="center">
   ✨ <i>"Keep learning, keep building."</i> ✨
