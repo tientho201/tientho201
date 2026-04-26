@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 I'm an IT engineer specializing in **Artificial Intelligence** from **Saigon University (SGU)**.
-With the discipline of a **Bodybuilder** 🏋️ và the sharp mindset of a **Crypto Trader** 📈, I approach code and data architecture with a focus on performance and optimization.
+With the discipline of a **Bodybuilder** 🏋️ and the sharp mindset of a **Crypto Trader** 📈, I approach code and data architecture with a focus on performance and optimization.
 
 ---
 
