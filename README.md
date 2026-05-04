@@ -68,6 +68,12 @@ _Precision recommendation engine._
 - **Tech:** Integrated Whisper/FastSpeech/gTTS with LLMs for seamless natural language voice interaction.
 - **Application:** Building highly interactive AI assistants with low latency.
 
+### 📉 [Agentic AI Trading System CLI](https://github.com/tientho201/Agentic-AI-Trading-System-CLI)
+*Multi-agent cryptocurrency trading analysis and signal generation engine.*
+- **Core:** LangGraph orchestration for cross-checking technical and sentiment data.
+- **Agents:** Data Gatherer, Technical Analyst, Sentiment Analyzer, and Signal Generator.
+- **Tech:** Python, Pandas-TA (quantitative analysis), Pydantic (data validation), Binance & Coinglass APIs.
+
 ---
 
 ## 🧘 Beyond Coding
