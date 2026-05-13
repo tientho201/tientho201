@@ -99,8 +99,7 @@ _Precision recommendation engine._
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tientho201&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientho201&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=tientho201&theme=omni&hide_border=false">
 </p>
 
 ---
