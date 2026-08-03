@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/" target="_blank">Tien Tho</a></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=AI+%26+Data+Engineer;SGU+Alumni;Agentic+AI+Enthusiast;Data-Driven+Gymgoer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=AI+%26+Data+Engineer;SGU+Alumni;Agentic+AI+Enthusiast;Data-Driven+Gymger" alt="Typing SVG" />
 </p>
 
 <p align="center">
