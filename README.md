@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/" target="_blank">Tien Tho</a></h1>
+<h1 align="center">👋 Hi there! I'm <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/" target="_blank">Tho Nguyen</a></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=AI+%26+Data+Engineer;SGU+Alumni;Agentic+AI+Enthusiast;Data-Driven+Gymger" alt="Typing SVG" />
 </p>
@@ -38,41 +38,6 @@ With the discipline of a **Bodybuilder** 🏋️ and the sharp mindset of a **Cr
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 [AI Web Builder (LangGraph)](https://github.com/tientho201/AI-WEB-BUILDER)
-
-_Automated website-building system using a **Multi-agent** architecture._
-
-- **Core:** LangGraph, Human-in-the-loop workflow.
-- **Agents:** Coder, Executor, and Reviewer orchestration.
-
-### 🎭 [Vietnamese Emotion Classification](https://github.com/tientho201/VIETNAMESE_EMOTION_CLASSIFICATION)
-
-_NLP system for handling Vietnamese language nuances._
-
-- **Tech:** Transformer Architecture, Streamlit UI.
-
-### 🎬 [Hybrid Movie Recommendation System](https://dagshub.com/tientho201/Hybrid-Movie-Recommendation-System)
-
-_Precision recommendation engine._
-
-- **Method:** Collaborative Filtering (SVD) + Content-based (Cosine Similarity).
-
-### 🎙️ [Voice-to-Voice AI Pipeline](https://github.com/tientho201/VOICE_TO_VOICE)
-*Real-time end-to-end speech processing system.*
-- **Pipeline:** Speech-to-Text (STT) ➡️ LLM Processing ➡️ Text-to-Speech (TTS).
-- **Tech:** Integrated Whisper/FastSpeech/gTTS with LLMs for seamless natural language voice interaction.
-- **Application:** Building highly interactive AI assistants with low latency.
-
-### 📉 [Agentic AI Trading System CLI](https://github.com/tientho201/Agentic-AI-Trading-System-CLI)
-*Multi-agent cryptocurrency trading analysis and signal generation engine.*
-- **Core:** LangGraph orchestration for cross-checking technical and sentiment data.
-- **Agents:** Data Gatherer, Technical Analyst, Sentiment Analyzer, and Signal Generator.
-- **Tech:** Python, Pandas-TA (quantitative analysis), Pydantic (data validation), Binance & Coinglass APIs.
 
 ---
 
