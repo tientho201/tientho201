@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=THO%20NGUYEN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-### 👋 Hi there! I'm <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-ti%E1%BA%BFn-th%E1%BB%8D-2761131b4/" target="_blank">Tho Nguyen</a>
+### 👋 Hi there! I'm <a href="https://tienthoportfolio.vercel.app/" target="_blank">Tho Nguyen</a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+%26+Data+Engineer;Agentic+AI+Enthusiast+%F0%9F%A4%96;LLM+%7C+RAG+%7C+Multi-Agent+Systems;Data+Engineering+%26+MLOps;Building+AI+Systems+That+Actually+Work" alt="Typing SVG" />
 
